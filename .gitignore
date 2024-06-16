@@ -19,3 +19,4 @@ archive.tar
 .env
 *.env
 *.yml
+!.github/workflows/*.yml
